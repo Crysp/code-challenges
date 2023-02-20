@@ -1,5 +1,8 @@
 # Maximum Average Subarray I
 
+![Difficulty: Easy](https://img.shields.io/static/v1?label=Difficulty&message=Easy&color=green)
+![Topic: Sliding window](https://img.shields.io/static/v1?label=Topic&message=Sliding%20window&color=blue)
+
 You are given an integer array `nums` consisting of N elements, and an integer `k`.
 
 Find a contiguous subarray whose length is equal to `k` that has the maximum average value and return this value. Any answer with a calculation error less than 10-5 will be accepted.
